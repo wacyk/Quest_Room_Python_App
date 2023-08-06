@@ -5,9 +5,13 @@ This window application is part of the Questroom hardware and software complex, 
 The questroom consists of many controllers interconnected via modbus-rtu, such as:
 
 --digital inputs/outputs;
+
 --combination locks;
+
 --RFID readers;
+
 --dimmers;
+
 --phones.
 
 All of theese modules were also full-developed by me as a part of this project
